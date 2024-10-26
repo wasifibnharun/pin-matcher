@@ -19,7 +19,7 @@ This repository contains a **Pin Matcher** application built with JavaScript. It
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/pin-matcher.git
+    git clone https://github.com/wasifibnharun/pin-matcher.git
     ```
 2. Open `index.html` in your preferred web browser.
 
